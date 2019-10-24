@@ -62,18 +62,20 @@ function checkLetter(buttonClicked){
 }
 
 qwerty.addEventListener("click",function(e){
-    e.target.classList.add("chosen");
-    e.target.disabled=true;
-    letterFound=checkLetter(e.target);
-    if( letterFound==null){
-      //1) Remove a tries heart
-      const ol=document.querySelector('#scoreboard ol');
-      const li=ol.lastElementChild;
-      ol.removeChild(li);
-      //2) Add to Missed
-      missed+=1;
+    if(e.target.tagName=="BUTTON"){
+      e.target.classList.add("chosen");
+      e.target.disabled=true;
+      letterFound=checkLetter(e.target);
+      if( letterFound==null){
+        //1) Remove a tries heart
+        const ol=document.querySelector('#scoreboard ol');
+        const li=ol.lastElementChild;
+        ol.removeChild(li);
+        //2) Add to Missed
+        missed+=1;
+      }
+      checkWin();
     }
-    checkWin();
 });
 
 function checkWin(){

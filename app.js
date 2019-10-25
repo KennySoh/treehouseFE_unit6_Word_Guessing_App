@@ -40,6 +40,8 @@ function addPhraseToDisplay(arr){
       li.textContent=arr[i];
       if(arr[i]!=' '){
         li.classList.add("letter");
+      }else{
+        li.classList.add("space");
       }
       ul.appendChild(li);
     }

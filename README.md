@@ -1,18 +1,10 @@
-# A Photo Gallery, with jQuery & Javascript
-A responsive Photo Gallery with a filter funcitonality 
+# A Game Show App, JS 
+Multiple Screen Overlay transition and Dynamic word guessing with js. 
 
-***
-- The use of a jQuery Plugin 
-  - A responsive photo Gallery implmentation 
-- Content Filtering
-  - Images are filtered in real-time based on user input
-- A mobile first reponsive design
-***
-
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit5_Photo_Gallery_With_jQuery
+To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit6_Word_Guessing_App
 
 ## A sample of the project
 
-| Photo Gallery        |
+| Game Show App     |
 | ------------- |
-|![images](https://github.com/KennySoh/treehouseFE_unit5_Photo_Gallery_With_jQuery/blob/master/sample-pic1.png)
+|![images](https://github.com/KennySoh/treehouseFE_unit6_unit6_Word_Guessing_App/blob/master/sample-pic1.png)

@@ -5,6 +5,15 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 
 ## A sample of the project
 
-| Game Show App     |
+| Start Page    |
 | ------------- |
-|![images](https://github.com/KennySoh/treehouseFE_unit6_unit6_Word_Guessing_App/blob/master/sample-pic1.png)
+|![images](https://github.com/KennySoh/treehouseFE_unit6_Word_Guessing_App/blob/master/sample-pic1.png)
+
+| Word Guessing    | 
+| ------------- |
+|![images](https://github.com/KennySoh/treehouseFE_unit6_Word_Guessing_App/blob/master/sample-pic2.png)
+
+
+| Win| Lose    |
+| ------------- |--------------|
+|![images](https://github.com/KennySoh/treehouseFE_unit6_Word_Guessing_App/blob/master/sample-pic3.png)|![images](https://github.com/KennySoh/treehouseFE_unit6_Word_Guessing_App/blob/master/sample-pic4.png)|
